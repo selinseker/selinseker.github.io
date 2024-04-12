@@ -7,7 +7,7 @@
 
 - 🎓 I'm a Computer Engineering student.
 
-- 🌱 I’m currently learning **Unity, C#, Game Development,OOP**
+- 🌱 What I know now and continue to learn: **Unity, C#, Game Development, IOS Development, OOP, Swift**
 
 - 📝 I regularly write articles on [https://medium.com/@selinseker001](https://medium.com/@selinseker001)
 
